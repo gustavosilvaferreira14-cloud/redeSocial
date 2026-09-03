@@ -32,3 +32,6 @@ likeSvg.style.color= "#ef4444";
 //efeito curtida
 likeSvg.Stile.transform= "scale(1.3)"
 seTimeout ()= => (LikeSvg.syle.transform) "scale(1)"150;
+
+
+{
